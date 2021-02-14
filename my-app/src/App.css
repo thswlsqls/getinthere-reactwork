@@ -1,0 +1,8 @@
+.box-style {
+  color: blue;
+  background-color: black;
+}
+
+.menu {
+  display: flex;
+}
